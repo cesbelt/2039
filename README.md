@@ -1,2 +1,2 @@
 # 2039
-Clase 7 am
+Visualización de datos para la toma de decisiones
